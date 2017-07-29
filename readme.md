@@ -5,20 +5,20 @@ This is a glossary of terms found in data science. It's aim is to provide a the 
 
 ## How to Contribute
 
-There are many aspects of data science. Help covering them is greatly appreciated! If you would like to add a new term or section, or think an existing description can be modified, the please submit a pull request!
+There are many aspects of data science. Help covering them is greatly appreciated! If you would like to add a new term or section, or think an existing description can be modified, the please submit a pull request, or file an issue with a suggestion or question.
 
-Not sure if you have enough experience to contribute? Read this project's impostor syndrome disclaimer!
+Not sure if you have enough experience to contribute? Read this project's [impostor syndrome disclaimer](impostor-syndrome-disclaimer.md)!
 
-## Pages
+## Subjects
 
-**Statistics**
+- [**Data Engineering**](data-eng/data-eng.md)
 
-**Machine Learning**
+- [**Data Visualization**](data-viz/data-viz.md)
 
-**Natural Language Processing**
+- [**Deep Learning**](deep-learning/deep-learning.md)
 
-**Deep Learning**
+- [**Machine Learning**](ml/ml.md)
 
-**Data Visualization**
+- [**Natural Language Processing**](nlp/nlp.md)
 
-**Data Engineering**
+- [**Statistics**](stats/stats.md)
