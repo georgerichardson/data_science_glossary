@@ -7,36 +7,37 @@ Natural language processing (NLP) is the collection of methods used for computer
 
 ### Terms
 
-##### Named Entitiy
+#### Named Entitiy
 A named entity is any real world object such as a person, location, organisation or product with a proper name. [[Spacy Tutorial]
 (https://github.com/cytora/pycon-nlp-in-10-lines/blob/master/00_spacy_intro.ipynb)]
 
-##### Noun Chunk
+#### Noun Chunk
 A phrase based upon nouns recovered from tokenized text using the speech tags. [[Spacy Tutorial]
 (https://github.com/cytora/pycon-nlp-in-10-lines/blob/master/00_spacy_intro.ipynb)]
 
-##### Part of Speech 
+#### Part of Speech 
 http://www.winwaed.com/blog/2011/11/08/part-of-speech-tags/
 
-##### Token  
+#### Token  
 An element of a chopped up body of text, which could be a word or a group of words to analyse. The task of turning a body of text into tokens is called "tokenisation". [[Spacy Tutorial]
 (https://github.com/cytora/pycon-nlp-in-10-lines/blob/master/00_spacy_intro.ipynb)]
 
 ### Packages
 
-##### gensim
+#### gensim
 
-##### Tika
+#### Tika
 
-##### NLTK
+#### NLTK
 
-##### Deep dive
+#### Deep dive
 
-##### Spacy
+#### Spacy
 
-##### Stanford NLP
+#### Stanford NLP
 
-##### TensorFlow
+#### TensorFlow
 Tensor flow is a deep learning package that can be applied to NLP. See main entry.
 
-##### textblob - built on top of NLTK
+#### textblob
+built on top of NLTK
