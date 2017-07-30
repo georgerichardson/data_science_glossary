@@ -11,6 +11,8 @@ Not sure if you have enough experience to contribute? Read this project's [impos
 
 ## Subjects
 
+- [**Data Analysis**](data-analysis/data-analysis.md)
+
 - [**Data Engineering**](data-eng/data-eng.md)
 
 - [**Data Visualization**](data-viz/data-viz.md)

@@ -1,7 +1,7 @@
-Data Engineering
+Data Analysis
 ================
 
-Data engineering (DE) is
+Data analysis (DA) is
 
 ## Concepts
 
