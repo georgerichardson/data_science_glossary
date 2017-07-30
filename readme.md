@@ -40,8 +40,10 @@ This guide is written in Markdown, [which is very easy](https://github.com/adam-
 The description of the item should be a few sentences
 long, perhaps including an example, and easy to understand
 for a beginner. It should not try to explain the full theory
-behind the item. Sources can be included and formatted as
-follows. [[source title](source link)]
+behind the item. Sources can be included as a comma separated 
+list in line with the main text, and formatted with enclosing
+square brackets. [[source title 1] (source link 1), 
+[source title 2] (source link 2)]
 ~~~
 
 The result should be something like this:
@@ -49,7 +51,7 @@ The result should be something like this:
 ---
 
 #### Token  
-An element of a chopped up body of text, which could be a word or a group of words to analyse. The task of turning a body of text into tokens is called "tokenisation". [[Spacy Tutorial]
+An element of a chopped up body of text, which could be a word or a group of words. The task of turning a body of text into tokens is called "tokenisation". [[Spacy Tutorial]
 (https://github.com/cytora/pycon-nlp-in-10-lines/blob/master/00_spacy_intro.ipynb)]
 
 ---
@@ -58,7 +60,7 @@ There are no hard rules to the glossary, so if you feel that an item could fit i
 
 #### Multiple Entries
 
-Sometimes an item may fit into more than one section because it actually has different meanings or uses depending on the topic. For example, the tool, `TensorFlow` is a deep learning package that is directly related to Deep Learning, but also has applications in Natural Language Processing. In this case it would be acceptable to have two separate entries with domain-specific descriptions. If applicable, a link can be added to an entry, to guide the reader back to the "original entry".
+Sometimes an item may fit into more than one section because it actually has different meanings or uses depending on the topic. For example, the tool, `TensorFlow` is a package directly related to Deep Learning, but also has applications in Natural Language Processing. In this case it would be fine to have two separate entries with domain-specific descriptions. If applicable, a link can be added to an entry, to guide the reader back to the "original entry".
 
 #### Not sure?
 
