@@ -5,6 +5,8 @@ This is a glossary of terms found in data science. It's aim is to provide a the 
 
 ## Topics
 
+- [**Artificial Intelligence**](ai/ai.md)
+
 - [**Data Analysis**](data-analysis/data-analysis.md)
 
 - [**Data Engineering**](data-eng/data-eng.md)
@@ -22,7 +24,7 @@ This is a glossary of terms found in data science. It's aim is to provide a the 
 
 ## Contribute
 
-There are many aspects of data science. Help covering them is greatly appreciated! If you would like to add a new term or section, or think an existing description can be modified, the please submit a pull request, or file an issue with a suggestion or question.
+There are many aspects of data science. Help covering them is greatly appreciated! If you would like to add a new term or section, or think an existing description can be modified, the please submit a pull request, or file an issue with a suggestion or question. If you are adding a new item, please only add one item per pull request.
 
 ### Contribution Guidelines
 
